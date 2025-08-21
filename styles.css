@@ -9,12 +9,19 @@ body {
   color: #2b3d34;
 
   /* ✅ background image setup */
-  background-image: url('images/Cup.jpg');
+ .home {
+  background-image: url('images/background.jpg'); /* path must match your folder/file */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 100vh;
-  position: relative;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: white; /* makes text readable */
+  min-height: 80vh; /* give it height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 }
 
 /* ✅ optional dark overlay for readability */
