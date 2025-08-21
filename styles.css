@@ -10,7 +10,7 @@ body {
 
   /* ✅ background image setup */
  .home {
-  background-image: url('images/background.jpg'); /* path must match your folder/file */
+  background-image: url('images/Cup.jpg'); /* path must match your folder/file */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
