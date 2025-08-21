@@ -9,7 +9,7 @@ body {
   color: #2b3d34;
 
   /* ✅ background image setup */
-  background-image: url('images/Cup.jpg');
+  background-image: url('Cup.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
